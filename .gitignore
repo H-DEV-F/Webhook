@@ -1,7 +1,10 @@
+*.dll
+*.pdb
 *.vsidx
 *.cache
 *.nuget.dgspec.json
 *.csproj.nuget.g.props
 *.csproj.nuget.g.targets
 /WebhookRecever/obj/project.nuget.cache
-/.vs/Webhook/v17/.suo
+/Webhook.Recever/bin
+/Webhook.Recever/obj
