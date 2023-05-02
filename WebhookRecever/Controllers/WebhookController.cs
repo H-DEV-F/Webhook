@@ -1,6 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Net;
-using Webhook.Filters;
 
 namespace Webhook.Controllers
 {
