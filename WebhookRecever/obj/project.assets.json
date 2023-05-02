@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55119\\source\\repos\\Webhook\\Webhook\\WebhookRecever.csproj",
+      "projectUniqueName": "C:\\Users\\55119\\source\\repos\\Webhook\\WebhookRecever\\WebhookRecever.csproj",
       "projectName": "WebhookRecever",
-      "projectPath": "C:\\Users\\55119\\source\\repos\\Webhook\\Webhook\\WebhookRecever.csproj",
+      "projectPath": "C:\\Users\\55119\\source\\repos\\Webhook\\WebhookRecever\\WebhookRecever.csproj",
       "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55119\\source\\repos\\Webhook\\Webhook\\obj\\",
+      "outputPath": "C:\\Users\\55119\\source\\repos\\Webhook\\WebhookRecever\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config",
